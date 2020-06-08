@@ -1,0 +1,39 @@
+<html>
+	<head>
+
+	<!-- ATTENTION: Do not edit these pages on the server! Your changes will be lost when the site is recompiled from source code. Contact Rebecca Holmes (rholmes4@illinois.edu) for instructions. -->
+
+		<title>UIUC Links Errors</title>
+
+		<!-- Bootstrap core CSS -->
+		<link href="{{ site.baseurl }}/css/bootstrap.css" rel="stylesheet" type="text/css">
+
+		<!-- Custom styles for this template -->
+		<link href="{{ site.baseurl }}/css/main_default.css" rel="stylesheet" type="text/css">
+
+	</head>
+<body>
+	<div class="container">
+		<h2>This page has moved!</h2>
+
+		<p>
+		Please note the new address:
+		<a href="{{ site.baseurl }}/{{ page.redirect }}">{{ site.url }}/{{ page.redirect }}</a>
+		</p>
+
+		<p>
+		If you are not automatically redirected, click the link above.
+		<p>
+
+	</div>
+
+	{% include footer.html %}
+
+
+	<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/js/bootstrap.js"></script>
+	</body>
+</html>

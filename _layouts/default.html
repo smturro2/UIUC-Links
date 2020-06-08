@@ -1,0 +1,25 @@
+<html>
+	<head>
+
+		<title>UIUC Links</title>
+
+		<!-- Bootstrap core CSS -->
+		<link href="{{ site.baseurl }}/css/bootstrap.css" rel="stylesheet" type="text/css">
+
+		<!-- Custom styles for this template -->
+		<link href="{{ site.baseurl }}/css/main_default.css" rel="stylesheet" type="text/css">
+	</head>
+<body>
+	<div id="content_default">
+	{% include navbar.html %}
+	{% include header.html %}
+	{{ content }}
+	{% include footer.html %}
+	</div>
+		<!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/js/bootstrap.js"></script>
+	</body>
+</html>

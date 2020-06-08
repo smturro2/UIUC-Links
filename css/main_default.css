@@ -1,0 +1,59 @@
+/* Bootstrap.css is also required. */
+
+/* Basic site-wide CSS */
+body  {
+  min-height: 100%;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  background: linear-gradient(53deg, rgba(162,53,29,1) 15%, rgba(19,41,75,1) 97%);
+  color:#484848;
+  /* padding-bottom: 20px; */ /* Proper positioning of content below fixed navbar */
+  overflow-x: hidden;
+}
+
+div#content_default {
+  margin: 0% 10%;
+  margin-top:50px;
+  height: fit-content;
+  padding: 0px 1%;
+  background-color: white;
+}
+div.row {
+ margin:0px;
+}
+div.header{
+ margin-bottom:15px;
+}
+div.header h1,h2{
+ display:inline;
+}
+h1#ILL {
+
+display: inline;
+
+letter-spacing: 10px;
+
+font-weight: 300;
+
+font-size: 82px;
+}
+
+div.Link_Block {
+  margin:auto;
+  width: fit-content;
+  border:1px black solid;
+  border-radius:15px;
+  padding:15px;
+
+}
+
+div.Link_Block img {
+ height:50px;
+ width:auto;
+ display: inline;
+  margin:5px;
+}
+
+div.Link_Block h4 {
+  display: inline;
+}
