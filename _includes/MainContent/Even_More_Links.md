@@ -1,5 +1,3 @@
-Even more
-
 * [Academic Calendar](https://registrar.illinois.edu/academic-calendars/fall-2020-academic-calendar/)
 * [Google/Outlook/iCal Calendar Creater](https://uiuccalendar.appspot.com/=)
 * [UIUC Library ](https://www.library.illinois.edu/)

@@ -1,5 +1,3 @@
-Other Links
-
 * [Github](https://github-dev.cs.illinois.edu/)
 * [Audit report](https://uachieve.apps.uillinois.edu/uachieve_uiuc/)
 * [CBTF ](https://cbtf.engr.illinois.edu/)

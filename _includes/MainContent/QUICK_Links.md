@@ -1,5 +1,3 @@
-Quick Links
-
 <!-- * [Compass(Blackboard)](https://compass2g.illinois.edu/)  
 * [Learn.illinois(moodle)](https://learn.illinois.edu/)
 * [Enterprise(Self Service)](https://apps.uillinois.edu/selfservice/) -->
